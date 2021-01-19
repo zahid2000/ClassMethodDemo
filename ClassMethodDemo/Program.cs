@@ -38,7 +38,7 @@ namespace ClassMethodDemo
 
             Console.WriteLine("-------------------------");
             customerManager.CustomList(customers);
-            Console.WriteLine("-------------------------");
+            Console.WriteLine("--------------------------");
             customerManager.Delete(customer3);
 
         }
